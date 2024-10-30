@@ -1,11 +1,12 @@
-![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
-
-## 字节飞扬
-
-- 互联网是有记忆的，我想留下一些成长的脚印。
+<img src="Pics/dna.png" alt="DNA Icon" width="300" height="300">
 
 
-[GitHub](https://github.com/bytesfly/blog)
+## 百度 AntibodyX
+
+- 一些互联网的痕迹。
+
+
+[GitHub](https://github.com/Alexaaaaaaaaaa/AntibodyXBlog)
 [开始阅读](README.md)
 
 
